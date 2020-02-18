@@ -1,0 +1,11 @@
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.exe
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.deps.json
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.runtimeconfig.json
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.runtimeconfig.dev.json
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.dll
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\bin\Debug\netcoreapp3.1\CadFuncFormatado.pdb
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\obj\Debug\netcoreapp3.1\CadFuncFormatado.csprojAssemblyReference.cache
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\obj\Debug\netcoreapp3.1\CadFuncFormatado.AssemblyInfoInputs.cache
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\obj\Debug\netcoreapp3.1\CadFuncFormatado.AssemblyInfo.cs
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\obj\Debug\netcoreapp3.1\CadFuncFormatado.dll
+G:\Bagulhos Estranhos\VS19\CadFuncFormatado\CadFuncFormatado\obj\Debug\netcoreapp3.1\CadFuncFormatado.pdb

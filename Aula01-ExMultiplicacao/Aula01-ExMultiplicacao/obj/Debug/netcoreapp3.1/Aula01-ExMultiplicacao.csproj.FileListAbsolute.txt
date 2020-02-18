@@ -1,0 +1,10 @@
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.exe
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.deps.json
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.runtimeconfig.json
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.runtimeconfig.dev.json
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.dll
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\bin\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.pdb
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\obj\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.AssemblyInfoInputs.cache
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\obj\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.AssemblyInfo.cs
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\obj\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.dll
+G:\Bagulhos Estranhos\VS19\Aula01-ExMultiplicacao\Aula01-ExMultiplicacao\obj\Debug\netcoreapp3.1\Aula01-ExMultiplicacao.pdb

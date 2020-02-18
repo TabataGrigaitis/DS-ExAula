@@ -1,0 +1,10 @@
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\obj\Debug\netcoreapp3.1\CadFunc.AssemblyInfoInputs.cache
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\obj\Debug\netcoreapp3.1\CadFunc.AssemblyInfo.cs
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.exe
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.deps.json
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.runtimeconfig.json
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.runtimeconfig.dev.json
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.dll
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\bin\Debug\netcoreapp3.1\CadFunc.pdb
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\obj\Debug\netcoreapp3.1\CadFunc.dll
+G:\Bagulhos Estranhos\VS19\CadFunc\CadFunc\obj\Debug\netcoreapp3.1\CadFunc.pdb

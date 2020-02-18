@@ -1,0 +1,11 @@
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.exe
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.deps.json
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.runtimeconfig.json
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.runtimeconfig.dev.json
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.dll
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\bin\Debug\netcoreapp3.1\Aula01-Ex01.pdb
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\obj\Debug\netcoreapp3.1\Aula01-Ex01.csprojAssemblyReference.cache
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\obj\Debug\netcoreapp3.1\Aula01-Ex01.AssemblyInfoInputs.cache
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\obj\Debug\netcoreapp3.1\Aula01-Ex01.AssemblyInfo.cs
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\obj\Debug\netcoreapp3.1\Aula01-Ex01.dll
+G:\Bagulhos Estranhos\VS19\Aula01-Ex01\Aula01-Ex01\obj\Debug\netcoreapp3.1\Aula01-Ex01.pdb
