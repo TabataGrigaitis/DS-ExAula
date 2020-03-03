@@ -1,0 +1,48 @@
+D:\Kleber Brito - VS\ExCurso\ExCurso\bin\Debug\ExCurso.exe.config
+D:\Kleber Brito - VS\ExCurso\ExCurso\bin\Debug\ExCurso.exe
+D:\Kleber Brito - VS\ExCurso\ExCurso\bin\Debug\ExCurso.pdb
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.csprojAssemblyReference.cache
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.frmCursos.resources
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.Properties.Resources.resources
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.csproj.GenerateResource.cache
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.exe
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.pdb
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.FrmLogin.resources
+D:\Kleber Brito - VS\ExCurso\ExCurso\obj\Debug\ExCurso.FrmSplash.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.exe.config
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.exe
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.pdb
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.csprojAssemblyReference.cache
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.frmCursos.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmLogin.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmPrincipal.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmSplash.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.Properties.Resources.resources
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.csproj.GenerateResource.cache
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.exe
+F:\2° MÓDULO\DS - Luiz Fernando & Quitéria\04_02\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.pdb
+D:\DS\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.exe.config
+D:\DS\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.exe
+D:\DS\Exerc 04_02\ExCurso\ExCurso\bin\Debug\ExCurso.pdb
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.csprojAssemblyReference.cache
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.frmCursos.resources
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmLogin.resources
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmPrincipal.resources
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmSplash.resources
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.Properties.Resources.resources
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.csproj.GenerateResource.cache
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.exe
+D:\DS\Exerc 04_02\ExCurso\ExCurso\obj\Debug\ExCurso.pdb
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\bin\Debug\ExCurso.exe.config
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\bin\Debug\ExCurso.exe
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\bin\Debug\ExCurso.pdb
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.csprojAssemblyReference.cache
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.frmCursos.resources
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmLogin.resources
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmPrincipal.resources
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmSplash.resources
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.Properties.Resources.resources
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.csproj.GenerateResource.cache
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.exe
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.pdb
+G:\Bagulhos Estranhos\2TER\DS - Luiz Fernando & Quitéria\Aula 02\ExCurso\ExCurso\obj\Debug\ExCurso.FrmMedia.resources
